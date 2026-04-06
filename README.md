@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Varun Sai
 
-📊 **Data Analyst | Python | SQL | Business Intelligence**
-💡 Turning raw data into actionable business insights
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+%7C+SQL+%7C+Business+Insights;Turning+Data+into+Decisions" />
+</p>
 
 ---
 
-## 🧠 About Me
+## 📊 About Me
 
-* 📊 I build **end-to-end data analytics projects** (Data → Cleaning → Analysis → Insights → Dashboard)
-* 🧩 Strong in **Python (Pandas), SQL, and data storytelling**
-* 📈 Focused on solving **real-world business problems using data**
-* ☁️ Experience integrating analytics workflows with **databases and cloud systems**
+* 📊 Data Analyst passionate about **business insights & decision-making**
+* 🧠 Skilled in **Python (Pandas), SQL, and data analysis**
+* 📈 Experienced in **EDA, feature engineering, and analytics dashboards**
+* ☁️ Exposure to **AWS & backend systems (Flask, MySQL)**
 
 ---
 
@@ -18,35 +19,31 @@
 
 ### 🧠 Customer Intelligence & Revenue Optimization
 
-→ Customer segmentation (Premium / Regular / Low Value)
-→ Revenue contribution & behavioral analysis
-→ RFM-style insights for business strategy
+🔗 https://github.com/varunvs0508/Customer-Intelligence-and-Revenue-Optimization
+
+* Customer segmentation (RFM-style)
+* Revenue contribution analysis
+* Business-driven insights
 
 ---
 
-### 🏦 Retail Lending Risk Intelligence System
+### 🏦 Retail Lending Risk Intelligence
 
-→ Loan default risk analysis
-→ EMI-to-income ratio & financial stress indicators
-→ Risk segmentation for decision-making
+🔗 https://github.com/varunvs0508/Loan-Risk-Analysis
 
----
-
-### 🛒 GMart Sales Analytics System
-
-→ Sales trends across cities & product categories
-→ Discount vs revenue impact analysis
-→ Customer spending pattern insights
+* Loan default risk analysis
+* EMI-to-income ratio insights
+* Risk segmentation
 
 ---
 
-### 📊 What These Projects Demonstrate
+### 🛒 Retail Sales Analytics
 
-✔️ Data Cleaning & Preprocessing
-✔️ Exploratory Data Analysis (EDA)
-✔️ Feature Engineering
-✔️ Business Insight Generation
-✔️ Dashboard Creation
+🔗 https://github.com/varunvs0508/Retail-Sales_Analytics
+
+* Sales trends & category performance
+* Discount vs revenue analysis
+* Customer behavior insights
 
 ---
 
@@ -54,35 +51,29 @@
 
 ### 📊 Data Analysis
 
-* Python (Pandas)
-* Matplotlib
-* Data Cleaning & EDA
-* Feature Engineering
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-orange?style=for-the-badge\&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-green?style=for-the-badge)
 
-### 🗄️ Databases
+### 🗄️ Database
 
-* MySQL
-* SQL (Joins, Aggregations, Queries)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
 
-### ⚙️ Tools & Concepts
+### ⚙️ Tools
 
-* Data Pipelines
-* Business Metrics (AOV, Revenue, Segmentation)
-* Analytical Thinking
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
 
-### ☁️ Additional Exposure
+### ☁️ Exposure
 
-* AWS (EC2, S3, Lambda – basic exposure)
-* Backend systems (Flask – project-based)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
+![Flask](https://img.shields.io/badge/Flask-grey?style=for-the-badge\&logo=flask)
 
 ---
 
-## ⚡ What Makes Me Different
-
-✔️ I focus on **business insights, not just code**
-✔️ I build **complete analytics pipelines**
-✔️ I work with **real-world datasets and problems**
-✔️ I understand how data impacts **decision-making**
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=varunvs0508&theme=tokyonight" />
+</p>
 
 ---
 
@@ -96,4 +87,4 @@
 
 ---
 
-⭐ *Turning data into decisions.*
+⭐ *Turning data into actionable insights.*

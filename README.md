@@ -8,10 +8,20 @@
 
 ## 📊 About Me
 
-* 📊 Data Analyst passionate about **business insights & decision-making**
-* 🧠 Skilled in **Python (Pandas), SQL, and data analysis**
-* 📈 Experienced in **EDA, feature engineering, and analytics dashboards**
-* ☁️ Exposure to **AWS & backend systems (Flask, MySQL)**
+* 📊 Data Analyst focused on turning raw data into **revenue-driving insights** and **measurable business outcomes**  
+* 🧠 Skilled in **Python (Pandas), SQL, and data analysis**, with hands-on experience handling large datasets  
+* 📈 Delivered insights through **EDA, feature engineering, and dashboards**, improving decision-making efficiency  
+* 💡 Built data-driven solutions across **customer segmentation, risk analysis, and sales analytics projects**  
+* ☁️ Exposure to **AWS & backend systems (Flask, MySQL)** for scalable data workflows  
+
+---
+
+## 💼 What I Bring
+
+* Strong analytical thinking with business-first mindset  
+* Ability to translate data → insights → decisions  
+* Experience building end-to-end analytics projects  
+* Hands-on with real-world datasets (sales, lending, airline ops)
 
 ---
 
@@ -24,6 +34,17 @@
 * Customer segmentation (RFM-style)
 * Revenue contribution analysis
 * Business-driven insights
+
+---
+
+### ✈️ Airline Performance Analytics System
+
+🔗 https://github.com/varunvs0508/Airline-Performance-Analytics
+
+* Flight performance and delay analysis
+* Load factor and aircraft utilization insights
+* Revenue and route performance analysis
+* Dashboard for operational monitoring
 
 ---
 
@@ -50,23 +71,19 @@
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analysis
+Python (Pandas, NumPy), EDA, Feature Engineering  
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-orange?style=for-the-badge\&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-green?style=for-the-badge)
+### 📈 Visualization
+Matplotlib, Power BI
 
 ### 🗄️ Database
+MySQL
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-
-### ⚙️ Tools
-
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
+### ⚙️ Tools & Concepts
+Data Cleaning, Business Metrics, A/B Thinking  
 
 ### ☁️ Exposure
-
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
-![Flask](https://img.shields.io/badge/Flask-grey?style=for-the-badge\&logo=flask)
+AWS, Flask APIs
 
 ---
 
@@ -87,4 +104,4 @@
 
 ---
 
-⭐ *Turning data into actionable insights.*
+🚀 Passionate about solving real-world business problems using data.

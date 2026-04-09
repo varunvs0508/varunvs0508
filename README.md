@@ -89,7 +89,7 @@ AWS, Flask APIs
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=varunvs0508&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=varunvs0508&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---

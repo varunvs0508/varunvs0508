@@ -31,9 +31,17 @@
 
 🔗 https://github.com/varunvs0508/Customer-Intelligence-and-Revenue-Optimization
 
-* Customer segmentation (RFM-style)
+#### What I did:
+
+* RFM-based customer segmentation
 * Revenue contribution analysis
-* Business-driven insights
+* Behavioral pattern identification
+
+#### Key Insights:
+
+* Top customer segments drive majority of revenue
+* Identified high-value vs low-retention customers
+* Enabled targeted marketing strategy
 
 ---
 
@@ -41,10 +49,17 @@
 
 🔗 https://github.com/varunvs0508/Airline-Performance-Analytics
 
-* Flight performance and delay analysis
-* Load factor and aircraft utilization insights
-* Revenue and route performance analysis
-* Dashboard for operational monitoring
+#### What I did:
+
+* Flight delay & operational performance analysis
+* Load factor & aircraft utilization tracking
+* Route-level revenue analysis
+
+#### Key Insights:
+
+* Identified underperforming routes
+* Highlighted delay patterns affecting revenue
+* Improved operational monitoring via dashboards
 
 ---
 
@@ -52,9 +67,17 @@
 
 🔗 https://github.com/varunvs0508/Loan-Risk-Analysis
 
-* Loan default risk analysis
-* EMI-to-income ratio insights
-* Risk segmentation
+#### What I did:
+
+* Loan default risk segmentation
+* EMI-to-income ratio analysis
+* Risk profiling
+
+#### Key Insights:
+
+* High EMI ratio strongly correlates with default risk
+* Identified risky borrower segments
+* Supports better lending decisions
 
 ---
 
@@ -62,9 +85,17 @@
 
 🔗 https://github.com/varunvs0508/Retail-Sales_Analytics
 
-* Sales trends & category performance
-* Discount vs revenue analysis
-* Customer behavior insights
+#### What I did:
+
+* Sales trend and category performance analysis
+* Discount vs revenue impact study
+* Customer purchasing behavior
+
+#### Key Insights:
+
+* Excessive discounting reduces profitability
+* Certain categories drive consistent revenue
+* Identified high-value customer segments
 
 ---
 
@@ -89,7 +120,7 @@ AWS, Flask APIs
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=varunvs0508&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com/?user=varunvs0508&theme=tokyonight" />
 </p>
 
 ---
